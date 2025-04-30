@@ -1,0 +1,10 @@
+^C:\USERS\SAVCH\STUDY\PROFESSIONAL_CPP\OTUS_CPP\HOMEWORKS\CMAKELISTS.TXT
+setlocal
+C:\MyApp\Cmake\bin\cmake.exe -SC:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks -BC:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks/build --check-stamp-file C:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
