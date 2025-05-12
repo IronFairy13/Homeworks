@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/MyApp/Cmake/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake
+C:/MyApp/Cmake/share/cmake-3.30/Modules/CheckIncludeFile.cmake
+C:/MyApp/Cmake/share/cmake-3.30/Modules/CheckLibraryExists.cmake
+C:/MyApp/Cmake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/MyApp/Cmake/share/cmake-3.30/Modules/FindPackageMessage.cmake
+C:/MyApp/Cmake/share/cmake-3.30/Modules/FindThreads.cmake
+C:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks/homework_1/extern/googletest/googlemock/CMakeLists.txt
+C:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks/homework_1/extern/googletest/googlemock/cmake/gmock.pc.in
+C:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks/homework_1/extern/googletest/googlemock/cmake/gmock_main.pc.in

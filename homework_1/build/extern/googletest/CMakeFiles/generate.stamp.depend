@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/MyApp/Cmake/share/cmake-3.30/Modules/CMakeDependentOption.cmake
+C:/MyApp/Cmake/share/cmake-3.30/Modules/GNUInstallDirs.cmake
+C:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks/homework_1/extern/googletest/CMakeLists.txt
