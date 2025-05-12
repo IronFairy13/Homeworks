@@ -1,6 +1,6 @@
-^C:\USERS\SAVCH\STUDY\PROFESSIONAL_CPP\OTUS_CPP\HOMEWORKS\BUILD\CMAKEFILES\2427C1E30E31C8F3B6B4E6304368326F\GENERATE.STAMP.RULE
+^C:\USERS\SAVCH\STUDY\PROFESSIONAL_CPP\OTUS_CPP\HOMEWORKS\HOMEWORK_1\BUILD\CMAKEFILES\36F7A8C8951529007E3234861044A1B7\GENERATE.STAMP.RULE
 setlocal
-C:\MyApp\Cmake\bin\cmake.exe -SC:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks -BC:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks/build/homework_1.sln
+C:\MyApp\Cmake\bin\cmake.exe -SC:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks/homework_1 -BC:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks/homework_1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/savch/Study/Professional_Cpp/otus_cpp/Homeworks/homework_1/build/homework1.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
